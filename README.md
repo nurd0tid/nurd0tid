@@ -28,7 +28,7 @@ Currently I am open to any opportunity especially in IT as a Web Developer.
 ### Let's connect!
 <p>
     <a href="https://ruangcoder.com" target="blank"><img src="https://img.shields.io/badge/Website-https://ruangcoder.com-green?" /></a>
-    <a href="https://https://instagram.com/nurdotid112_" target="blank"><img src="https://img.shields.io/badge/@nurdotid112_-30302f?style=flat&logo=instagram" /></a>
+    <a href="https://instagram.com/nurdotid112_" target="blank"><img src="https://img.shields.io/badge/@nurdotid112_-30302f?style=flat&logo=instagram" /></a>
 </p>
 
 <!--
