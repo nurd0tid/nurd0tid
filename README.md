@@ -1,1 +1,1 @@
-![readmebox](https://github.com/nurd0tid/nurd0tid/assets/48532204/34676fda-f09c-45cc-a738-c97df3f787fa)![readmebox](https://github.com/nurd0tid/nurd0tid/assets/48532204/3e9eb130-6245-4ab9-9121-552685b9f20a)
+![readmebox](https://github.com/nurd0tid/nurd0tid/assets/48532204/3e9eb130-6245-4ab9-9121-552685b9f20a)
