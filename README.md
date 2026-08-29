@@ -27,8 +27,8 @@ Currently active on multi-tenant business platforms, career products, and workfo
 ## Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nurd0tid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurd0tid&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+  <img src="https://github-readme-stats.shion.dev/api?username=nurd0tid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=nurd0tid&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
   <br />
   <img src="https://streak-stats.demolab.com/?user=nurd0tid&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </div>
@@ -46,5 +46,7 @@ Currently active on multi-tenant business platforms, career products, and workfo
 ## Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nurd0tid&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nurd0tid&theme=tokyonight" alt="Profile details" />
+  <br />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nurd0tid&theme=tokyonight" alt="Productive time" />
 </div>
