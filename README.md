@@ -24,32 +24,9 @@ Currently active on multi-tenant business platforms, career products, and workfo
 
 ---
 
-## Stats
-
-<div align="center">
-  <img src="./stats/github-stats.svg" alt="GitHub stats" />
-  <img src="./stats/top-langs.svg" alt="Top languages" />
-  <br />
-  <img src="./stats/streak.svg" alt="GitHub streak" />
-</div>
-
----
-
 ## Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,dart,php,go,nextjs,react,flutter,fastapi,laravel,mysql,postgres,docker,tailwind,git,github" alt="Tech stack" />
-  <br /><br />
-  <img src="https://img.shields.io/badge/CodeIgniter-1a1b26?style=for-the-badge&logo=codeigniter&logoColor=EE4323" alt="CodeIgniter" />
-  <img src="https://img.shields.io/badge/MySQL-1a1b26?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />
-</div>
-
----
-
-## Activity
-
-<div align="center">
-  <img src="./stats/profile-details.svg" alt="Profile details" />
-  <br />
-  <img src="./stats/productive-time.svg" alt="Productive time" />
+  <img height="48" src="https://skillicons.dev/icons?i=ts,js,python,dart,php,go,nextjs,react,flutter,fastapi,laravel,mysql,postgres,docker,tailwind,git,github" alt="Tech stack" />
+  <img height="48" src="./stack/codeigniter.svg" alt="CodeIgniter" />
 </div>
