@@ -27,6 +27,5 @@ Currently active on multi-tenant business platforms, career products, and workfo
 ## Stack
 
 <div align="center">
-  <img height="48" src="https://skillicons.dev/icons?i=ts,js,python,dart,php,go,nextjs,react,flutter,fastapi,laravel,mysql,postgres,docker,tailwind,git,github" alt="Tech stack" />
-  <img height="48" src="./stack/codeigniter.svg" alt="CodeIgniter" />
+  <img src="./stack/icons.svg" alt="Tech stack" />
 </div>
