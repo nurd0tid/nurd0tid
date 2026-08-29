@@ -27,10 +27,10 @@ Currently active on multi-tenant business platforms, career products, and workfo
 ## Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=nurd0tid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=nurd0tid&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+  <img src="./stats/github-stats.svg" alt="GitHub stats" />
+  <img src="./stats/top-langs.svg" alt="Top languages" />
   <br />
-  <img src="https://streak-stats.demolab.com/?user=nurd0tid&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="./stats/streak.svg" alt="GitHub streak" />
 </div>
 
 ---
@@ -38,7 +38,10 @@ Currently active on multi-tenant business platforms, career products, and workfo
 ## Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,dart,php,go,nextjs,react,flutter,fastapi,laravel,postgres,docker,tailwind,git,github" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,dart,php,go,nextjs,react,flutter,fastapi,laravel,mysql,postgres,docker,tailwind,git,github" alt="Tech stack" />
+  <br /><br />
+  <img src="https://img.shields.io/badge/CodeIgniter-1a1b26?style=for-the-badge&logo=codeigniter&logoColor=EE4323" alt="CodeIgniter" />
+  <img src="https://img.shields.io/badge/MySQL-1a1b26?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />
 </div>
 
 ---
@@ -46,7 +49,7 @@ Currently active on multi-tenant business platforms, career products, and workfo
 ## Activity
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nurd0tid&theme=tokyonight" alt="Profile details" />
+  <img src="./stats/profile-details.svg" alt="Profile details" />
   <br />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nurd0tid&theme=tokyonight" alt="Productive time" />
+  <img src="./stats/productive-time.svg" alt="Productive time" />
 </div>
